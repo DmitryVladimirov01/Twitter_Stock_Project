@@ -9,7 +9,7 @@ re_match = r"[#$]([A-Z]+)"
 import spacy
 from spacy import displacy
 from spacy.tokens import Span
-import spacy_transformers
+# import spacy_transformers
 
 from spacytextblob.spacytextblob import SpacyTextBlob
 
